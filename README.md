@@ -16,7 +16,7 @@ Outside of code, I follow cricket obsessively — playing it when I can, over-an
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/deep-mohuri-773992148/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deep-mohuri-773992148/) 
 
 # 💻 Tech Stack
 ### Core Languages & Backend
